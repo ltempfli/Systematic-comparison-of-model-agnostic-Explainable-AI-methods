@@ -1,1 +1,2 @@
-# Systematic-comparison-of-model-agnostic-Explainable-AI-methods
+This repository compares the computation time of three XAI methods named LIME, SHAP and Shapley values.
+More information on the used packages and the link for the data set can be found in the main file
